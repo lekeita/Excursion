@@ -1,22 +1,30 @@
 body {
     background: #000000;
     font-family: verdana;
+    text-align: center;
 }
-.caption
+.caption {
+         font-size: 50px;
+         font-weight: normal;
+         color: white;
+         text-align: center;
+}
  .coming-soon {
               font-size: 50px;
               font-weight: normal;
-              color: khaki;
+              color: white;
               text-align: center;
 }
 .link {
       font-size: 16px;
       font-weight: normal;
       color: aquamarine;
-      text-align: center;
+}
+a {
+  text-align: center;
 }
 #excursion-video {
-                 text-align; center;
+                 text-align: center;
 }
 .guide {
        font-size: 42px;
@@ -30,7 +38,9 @@ body {
             color: grey;
             text-align: center;
 }
-.camping-image
+.camping-image {
+               text-align: center;
+}
 .phone-image {
               text-align: center;
 }
